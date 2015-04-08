@@ -1,2 +1,29 @@
-# dodo-command-script
+dodo-command-script
+===================
+
 sudoをtypoしたときのために
+
+## Description
+
+※本コマンドスクリプトはジョークです
+
+## Usage
+```bash
+$ dodo
+```
+
+## Install
+
+```bash
+$ git clone https://github.com/yajamon/dodo-command-script.git
+$ cp dodo-command-script/src/dodo ~/bin/dodo
+$ chmod +x ~/bin/dodo
+```
+
+## Licence
+
+[MIT](https://github.com/yajamon/dodo-command-script/blob/master/LICENCE)
+
+## Author
+
+[yajamon](https://github.com/yajamon)
