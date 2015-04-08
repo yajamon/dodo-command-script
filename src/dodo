@@ -4,6 +4,7 @@ serifCollection=(
     "素晴らしく注意力がないな、君は"
     "はっはっは、typoかね"
     "ふーむ、typoのようだね"
+    "ふむ、typoじゃないかな"
 )
 
 length=${#serifCollection[@]}
