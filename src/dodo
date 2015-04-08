@@ -1,8 +1,8 @@
 #!/bin/bash
 
 serifCollection=(
-    "素晴らしく運がないな、君は"
-    "ふっふっふ、何用かね"
+    "素晴らしく注意力がないな、君は"
+    "はっはっは、typoかね"
 )
 
 length=${#serifCollection[@]}
