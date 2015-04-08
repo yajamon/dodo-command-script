@@ -5,6 +5,7 @@ serifCollection=(
     "ふっふっふ、何用かね"
 )
 
-echo ${serifCollection[0]}
+index=$((RANDOM % 2))
+echo ${serifCollection[index]}
 
 exit 0
