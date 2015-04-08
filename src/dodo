@@ -5,7 +5,9 @@ serifCollection=(
     "ふっふっふ、何用かね"
 )
 
-index=$((RANDOM % 2))
+length=${#serifCollection[@]}
+
+index=$((RANDOM % length))
 echo ${serifCollection[index]}
 
 exit 0
