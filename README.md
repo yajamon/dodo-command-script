@@ -7,6 +7,10 @@ sudoをtypoしたときのために
 
 ※本コマンドスクリプトはジョークです
 
+## Demo
+
+![demo](https://cloud.githubusercontent.com/assets/6084855/7043098/fd050102-de21-11e4-85cc-cb1cb69096b6.gif)
+
 ## Usage
 ```bash
 $ dodo
